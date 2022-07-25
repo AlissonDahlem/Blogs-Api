@@ -6,8 +6,12 @@ const options = {
   database: process.env.MYSQL_DB_NAME,
   username: process.env.MYSQL_USER || 'root',
   password: process.env.MYSQL_PASSWORD || '1234',
-  dialect: 'mysql',
+  dialect: 'postgres',
   dialectOptions: {
+    ssl: {
+      require: true,
+      rejectUnauthorized: false,
+    },
     timezone: 'Z',
   },
   logging: process.env.DEBUG !== 'false',
