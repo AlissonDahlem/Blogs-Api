@@ -1,6 +1,0 @@
-build: 
-  docker:
-    web: docker-compose
-
-run:
-  web: node ./src/server.js
