@@ -15,6 +15,9 @@ Você pode encontrar a documentação dele <a href="https://documenter.getpostma
 
 <p>
 Para rodar o projeto você deverá fazer os seguintes passos:
- 
+
+ ```console
+git clone git@github.com:AlissonDahlem/Blogs-Api.git
+```
  
 </p>
