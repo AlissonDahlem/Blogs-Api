@@ -1,6 +1,6 @@
 # Boas-vindas ao repositório do projeto Blogs API!
 
-<img href="https://i.ibb.co/RPMgjk0/Blogs-api.png">
+<img src="https://i.ibb.co/RPMgjk0/Blogs-api.png">
 
 Blogs API foi um projeto desenvolvido na Trybe.
 
