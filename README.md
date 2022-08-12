@@ -10,6 +10,11 @@ Você pode encontrar a documentação dele <a href="https://documenter.getpostma
 
 <br />
 
-ˋˋˋ
-const teste = "teste"; 
- ˋˋˋ
+
+# Rodando o Projeto
+
+<p>
+Para rodar o projeto você deverá fazer os seguintes passos:
+ 
+ 
+</p>
