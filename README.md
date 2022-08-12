@@ -1,5 +1,7 @@
 # Boas-vindas ao repositório do projeto Blogs API!
 
+<img href="https://ibb.co/xGc2Ftj">
+
 Blogs API foi um projeto desenvolvido na Trybe.
 
 O projeto está hospedado na HEROKU atualmente para livre uso.
